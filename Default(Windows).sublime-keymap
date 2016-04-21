@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+8"], "command": "fold" },
+	{ "keys": ["ctrl+9"], "command": "unfold" }
+]
