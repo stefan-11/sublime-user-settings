@@ -9,3 +9,4 @@ Preferences -> Settings User
 - Terminal    - Open a Terminal at the current file or project  - top
 - Trailing Spaces - Unnötige Leerzeichen am Ende anzeigen       - top
 - Icon Fonts  - Code-Completion for Font Awesome                - top
+- CopyWithLineNumbersReloaded - Kopiert mit Zeilennummern       - top
