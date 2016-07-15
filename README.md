@@ -10,3 +10,4 @@ Preferences -> Settings User
 - Trailing Spaces - Unnötige Leerzeichen am Ende anzeigen       - top
 - Icon Fonts  - Code-Completion for Font Awesome                - top
 - CopyWithLineNumbersReloaded - Kopiert mit Zeilennummern       - top
+- BracketHighlighter - Shows brackets beside line numbers       - top
