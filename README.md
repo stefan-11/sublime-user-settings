@@ -11,3 +11,4 @@ Preferences -> Settings User
 - Icon Fonts  - Code-Completion for Font Awesome                - top
 - CopyWithLineNumbersReloaded - Kopiert mit Zeilennummern       - top
 - BracketHighlighter - Shows brackets beside line numbers       - top
+- Markdown Syntax Highlighting - https://packagecontrol.io/packages/MarkdownEditing - noch nicht probiert, aber empfohlen
