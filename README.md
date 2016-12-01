@@ -12,3 +12,4 @@ Preferences -> Settings User
 - CopyWithLineNumbersReloaded - Kopiert mit Zeilennummern       - top
 - BracketHighlighter - Shows brackets beside line numbers       - top
 - Markdown Syntax Highlighting - https://packagecontrol.io/packages/MarkdownEditing - noch nicht probiert, aber empfohlen
+- Ascii Decorator - https://packagecontrol.io/packages/ASCII Decorator - top
