@@ -13,3 +13,4 @@ Preferences -> Settings User
 - BracketHighlighter - Shows brackets beside line numbers       - top
 - Markdown Syntax Highlighting - https://packagecontrol.io/packages/MarkdownEditing - noch nicht probiert, aber empfohlen
 - Ascii Decorator - https://packagecontrol.io/packages/ASCII Decorator - top
+- Theme Soda - https://packagecontrol.io/packages/Theme%20-%20Soda - top (ändert nur das UI Theme, nicht den Syntaxbereich)
