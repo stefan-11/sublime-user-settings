@@ -14,3 +14,4 @@ Preferences -> Settings User
 - Markdown Syntax Highlighting - https://packagecontrol.io/packages/MarkdownEditing - noch nicht probiert, aber empfohlen
 - Ascii Decorator - https://packagecontrol.io/packages/ASCII Decorator - top
 - Theme Soda - https://packagecontrol.io/packages/Theme%20-%20Soda - top (ändert nur das UI Theme, nicht den Syntaxbereich)
+- https://packagecontrol.io/packages/PackageResourceViewer    - top (zum Anzeigen von Package Inhalten, z.B. Theme files)
