@@ -1,0 +1,60 @@
+[
+//
+// This file contains user adjustments to make the sidebar visually more compatible to the Dark Solarized Theme
+//
+// For checking the default UI Theme settings you can use Package Resource Viewer
+// https://packagecontrol.io/packages/PackageResourceViewer
+// Open Resource -> Theme - Default -> Default.sublime-theme
+//
+// For using this file simply place it into your user folder
+// It will then overrule some Default settings. Make sure to
+// use default settings (otherwise this file won't have any effect)
+//
+// To use default settings navigate to Menu Preferences -> Settings
+// Make sure there is an entry like this
+// "theme": "Default.sublime-theme",
+// or no entry at all.
+//
+
+
+//
+// SIDEBAR (adjusted by Stefan to make sidebar more like Dark Solarized)
+//
+    //sidebar_tree controls the background of the sidebar (container seems only to be the frame around)
+    {
+        "class": "sidebar_tree",
+        "row_padding": [8, 3],
+        "indent": 12,
+        "indent_offset": 17,
+        "indent_top_level": false,
+        "layer0.tint": [9, 39, 49],
+        "layer0.opacity": 1.0,
+        "dark_content": false
+    },
+    //sidebar_heading controls the "FOLDERS" heading, we removed the shadow offset there to show it more flat
+    {
+        "class": "sidebar_heading",
+        "color": [130, 130, 130],
+        "font.bold": true,
+        "shadow_color": [250, 250, 250],
+        "shadow_offset": [0, 0]
+    },
+    //sidebar_label defines the occurrens of each entry (folder or file), color was defined here
+    {
+        "class": "sidebar_label",
+        "color": [130, 130, 130],
+        //"font.bold": false,
+        "font.italic": false
+        // "shadow_color": [250, 250, 250], "shadow_offset": [0, 0]
+    },
+    //sidebar_label but only if selected, this makes sure a selected sidebar entry is displayed in white to keep it readable (because the selection itself is grey as the non-selected color of the label)
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row", "attributes": ["selected"]}],
+        "color": [255, 255, 255]
+        // , "shadow_color": [60, 60, 60], "shadow_offset": [0, 1]
+    },
+
+
+
+]
