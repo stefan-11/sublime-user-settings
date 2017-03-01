@@ -1,0 +1,8 @@
+[
+    { "caption": "Switch Project…", "command": "prompt_switch_project_or_workspace" },
+    { "command": "prompt_select_workspace", "caption": "Quick Switch Project…", "mnemonic": "S" }
+]
+
+
+
+
