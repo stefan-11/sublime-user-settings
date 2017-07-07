@@ -15,3 +15,8 @@ Preferences -> Settings User
 - Ascii Decorator - https://packagecontrol.io/packages/ASCII Decorator - top
 - Theme Soda - https://packagecontrol.io/packages/Theme%20-%20Soda - top (ändert nur das UI Theme, nicht den Syntaxbereich)
 - https://packagecontrol.io/packages/PackageResourceViewer    - top (zum Anzeigen von Package Inhalten, z.B. Theme files)
+
+# Installation JS Lint
+1. Install Package SublimeLinter in Sumbline Text (via Package Control)
+2. Install SublimeLinter-jshint (via Package Control, there should be many linters beginning with sublimelinter-)
+3. Install jshint via NPM (npm install -g jshint). This installs jshint globally
