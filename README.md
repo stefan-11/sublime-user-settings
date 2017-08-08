@@ -24,3 +24,7 @@ Preferences -> Settings User
 # Getting the sidebar dark (so that it fits Dark Solarized theme)
 Unclear how exactly that worked.
 
+I think the file "Default.sublime-theme" needs to be placed in 
+C:\Users\<username>\AppData\Roaming\Sublime Text 3\Packages\User
+
+Maybe "Soda Dark 3.sublime-theme" is also required but that should be a package that can be installed.
