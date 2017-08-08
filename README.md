@@ -20,3 +20,7 @@ Preferences -> Settings User
 1. Install Package SublimeLinter in Sumbline Text (via Package Control)
 2. Install SublimeLinter-jshint (via Package Control, there should be many linters beginning with sublimelinter-)
 3. Install jshint via NPM (npm install -g jshint). This installs jshint globally
+
+# Getting the sidebar dark (so that it fits Dark Solarized theme)
+Unclear how exactly that worked.
+
