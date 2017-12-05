@@ -1,0 +1,21 @@
+[
+    { "caption": "Toggle SideBar", "command": "toggle_side_bar" },
+    { "caption": "Show/Hide SideBar", "command": "toggle_side_bar" },
+
+	{ "caption": "Find in Files", "command": "show_panel", "args": {"panel": "find_in_files"} },
+
+	{ "caption": "Redo/Repeat", "command": "redo_or_repeat"},
+
+	{ "caption": "Paste from History", "command": "paste_from_history"},
+
+	{ "caption": "Goto Symbol in Project", "command": "goto_symbol_in_project"},
+
+	{ "caption": "Goto Definition", "command": "goto_definition"},
+
+	{ "caption": "Focus SideBar for Navigation - Use Shortcut --->", "command": "focus_side_bar"},
+
+	{ "caption": "Close File", "command": "close_file"},
+
+	{ "caption": "Toggle Comment", "command": "toggle_comment"}
+
+]
