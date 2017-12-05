@@ -1,3 +1,7 @@
 [
 	{ "keys": ["f1"], "command": "toggle_side_bar" },
+
+	{ "keys": ["ctrl+y"], "command": "toggle_comment", "args": { "block": false } },
+
+	{ "keys": ["ctrl+r"], "command": "redo_or_repeat" }
 ]
