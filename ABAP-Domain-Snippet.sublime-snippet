@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+Domain: ${1:/PE1/DOM...}
+Short Description: ${2:<description>}
+Data Type: ${3:CHAR}
+No. Characters: ${4:12}
+Output Length: ${5:12}
+Case-sensitive: ${6:false}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

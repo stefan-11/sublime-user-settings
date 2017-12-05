@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+Data element: ${1:/PE1/DTE...}
+Short Description: ${2:<description>}
+Domain: ${3:<domain>}
+Field Label
+Short             10      <short>
+Medium            15      <medium>
+Long              20      <long>
+Heading           12      <heading>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
