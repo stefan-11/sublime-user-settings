@@ -16,6 +16,8 @@
 
 	{ "caption": "Close File", "command": "close_file"},
 
-	{ "caption": "Toggle Comment", "command": "toggle_comment"}
+	{ "caption": "Toggle Comment", "command": "toggle_comment"},
+
+	{ "caption": "Switch Workspace", "command": "prompt_select_workspace"}
 
 ]
