@@ -1,0 +1,318 @@
+[
+	{
+		"args":
+		{
+			"characters": "View"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " V"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "field:"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\nTable"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": ":"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\nF"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "ield:"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "Data"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " element"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": ":"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "DTyp"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": ":"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "Length:"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "Short"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " descrip"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "tion:"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"extend": false,
+			"to": "eol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": true
+		},
+		"command": "move"
+	}
+]

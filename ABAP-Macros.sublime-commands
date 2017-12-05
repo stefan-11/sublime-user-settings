@@ -1,0 +1,5 @@
+[
+    { "caption": "Run Macro: ABAP Structure Parser", "command": "run_macro_file", "args": {"file": "res://Packages/User/ABAP-Structure-Parser.sublime-macro"} },
+    { "caption": "Run Macro: ABAP DB-Table Parser", "command": "run_macro_file", "args": {"file": "res://Packages/User/ABAP-DB-Table-Parser.sublime-macro"} },
+    { "caption": "Run Macro: ABAP Maintenance-View Parser", "command": "run_macro_file", "args": {"file": "res://Packages/User/ABAP-Maintenance-View-Parser.sublime-macro"} }
+]
