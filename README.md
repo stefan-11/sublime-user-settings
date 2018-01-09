@@ -16,6 +16,7 @@ Preferences -> Settings User
 - Theme Soda - https://packagecontrol.io/packages/Theme%20-%20Soda - top (ändert nur das UI Theme, nicht den Syntaxbereich)
 - https://packagecontrol.io/packages/PackageResourceViewer    - top (zum Anzeigen von Package Inhalten, z.B. Theme files)
 - A File Icon - https://packagecontrol.io/packages/A%20File%20Icon - top (fügt der Sidebar File Icons zu)
+- Codec - top (bringt einige decoder z.B. Base64)
 
 # Installation JS Lint
 1. Install Package SublimeLinter in Sumbline Text (via Package Control)
